@@ -325,6 +325,12 @@ form .btn2 {
 .copyright i{
    color: #ff004f;
 }
+.copyright a {
+   text-decoration: none;
+   color: #ff004f;
+   font-weight: 400;
+}
+
 /* ----------------- css for small screens-------- */
  nav .fa-solid {
    display: none;
